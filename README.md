@@ -1,4 +1,4 @@
-# 🤖 Sistema de Análise Inteligente de Dados
+# 🤖 Sistema de Análise Inteligente de Dados - Grupo Oscar Calçados
 
 Um sistema que permite analisar dados de forma inteligente através de uma interface web simples e um assistente de IA conversacional.
 
